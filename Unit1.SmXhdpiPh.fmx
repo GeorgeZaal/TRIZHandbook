@@ -1,0 +1,305 @@
+inherited Form1_SmXhdpiPh: TForm1_SmXhdpiPh
+  ClientHeight = 375
+  ClientWidth = 250
+  DesignerMasterStyle = 3
+  inherited Panel1: TPanel
+    Size.Width = 250.000000000000000000
+    inherited Rectangle1: TRectangle
+      Size.Width = 250.000000000000000000
+    end
+    inherited Text1: TText
+      TextSettings.Font.StyleExt = {00070000000000000004000000}
+    end
+  end
+  inherited VertScrollBox1: TVertScrollBox
+    Size.Width = 250.000000000000000000
+    Size.Height = 342.000000000000000000
+    Viewport.Width = 245.000000000000000000
+    Viewport.Height = 342.000000000000000000
+    inherited Image1: TImage
+      MultiResBitmap.Height = 54
+      MultiResBitmap.Width = 54
+    end
+    inherited Image2: TImage
+      MultiResBitmap.Height = 54
+      MultiResBitmap.Width = 54
+    end
+    inherited Image3: TImage
+      MultiResBitmap.Height = 54
+      MultiResBitmap.Width = 54
+    end
+    inherited Image4: TImage
+      MultiResBitmap.Height = 54
+      MultiResBitmap.Width = 54
+    end
+    inherited Image5: TImage
+      MultiResBitmap.Height = 54
+      MultiResBitmap.Width = 54
+    end
+    inherited Image6: TImage
+      MultiResBitmap.Height = 54
+      MultiResBitmap.Width = 54
+    end
+    inherited Image7: TImage
+      MultiResBitmap.Height = 54
+      MultiResBitmap.Width = 54
+    end
+    inherited Image8: TImage
+      MultiResBitmap.Height = 54
+      MultiResBitmap.Width = 54
+    end
+    inherited Image9: TImage
+      MultiResBitmap.Height = 54
+      MultiResBitmap.Width = 54
+    end
+    inherited Label7: TLabel
+      TabOrder = 47
+    end
+    inherited Label8: TLabel
+      TabOrder = 20
+    end
+    inherited Label4: TLabel
+      TabOrder = 22
+    end
+    inherited Image10: TImage
+      MultiResBitmap.Height = 54
+      MultiResBitmap.Width = 54
+    end
+    inherited Image11: TImage
+      MultiResBitmap.Height = 54
+      MultiResBitmap.Width = 54
+    end
+    inherited Image12: TImage
+      MultiResBitmap.Height = 54
+      MultiResBitmap.Width = 54
+    end
+    inherited Image13: TImage
+      MultiResBitmap.Height = 54
+      MultiResBitmap.Width = 54
+    end
+    inherited Image14: TImage
+      MultiResBitmap.Height = 54
+      MultiResBitmap.Width = 54
+    end
+    inherited Image15: TImage
+      MultiResBitmap.Height = 54
+      MultiResBitmap.Width = 54
+    end
+    inherited Image16: TImage
+      MultiResBitmap.Height = 54
+      MultiResBitmap.Width = 54
+    end
+    inherited Image17: TImage
+      MultiResBitmap.Height = 54
+      MultiResBitmap.Width = 54
+    end
+    inherited Image18: TImage
+      MultiResBitmap.Height = 54
+      MultiResBitmap.Width = 54
+    end
+    inherited Image19: TImage
+      MultiResBitmap.Height = 54
+      MultiResBitmap.Width = 54
+    end
+    inherited Image20: TImage
+      MultiResBitmap.Height = 54
+      MultiResBitmap.Width = 54
+    end
+    inherited Image21: TImage
+      MultiResBitmap.Height = 54
+      MultiResBitmap.Width = 54
+    end
+    inherited Image22: TImage
+      MultiResBitmap.Height = 54
+      MultiResBitmap.Width = 54
+    end
+    inherited Image23: TImage
+      MultiResBitmap.Height = 54
+      MultiResBitmap.Width = 54
+    end
+    inherited Image24: TImage
+      MultiResBitmap.Height = 54
+      MultiResBitmap.Width = 54
+    end
+    inherited Image25: TImage
+      MultiResBitmap.Height = 54
+      MultiResBitmap.Width = 54
+    end
+    inherited Image26: TImage
+      MultiResBitmap.Height = 54
+      MultiResBitmap.Width = 54
+    end
+    inherited Image27: TImage
+      MultiResBitmap.Height = 54
+      MultiResBitmap.Width = 54
+    end
+    inherited Image28: TImage
+      MultiResBitmap.Height = 54
+      MultiResBitmap.Width = 54
+    end
+    inherited Image29: TImage
+      MultiResBitmap.Height = 54
+      MultiResBitmap.Width = 54
+    end
+    inherited Image30: TImage
+      MultiResBitmap.Height = 54
+      MultiResBitmap.Width = 54
+    end
+    inherited Image31: TImage
+      MultiResBitmap.Height = 54
+      MultiResBitmap.Width = 54
+    end
+    inherited Image32: TImage
+      MultiResBitmap.Height = 54
+      MultiResBitmap.Width = 54
+    end
+    inherited Image33: TImage
+      MultiResBitmap.Height = 54
+      MultiResBitmap.Width = 54
+    end
+    inherited Image34: TImage
+      MultiResBitmap.Height = 54
+      MultiResBitmap.Width = 54
+    end
+    inherited Image35: TImage
+      MultiResBitmap.Height = 54
+      MultiResBitmap.Width = 54
+    end
+    inherited Image36: TImage
+      MultiResBitmap.Height = 54
+      MultiResBitmap.Width = 54
+    end
+    inherited Image37: TImage
+      MultiResBitmap.Height = 54
+      MultiResBitmap.Width = 54
+    end
+    inherited Image38: TImage
+      MultiResBitmap.Height = 54
+      MultiResBitmap.Width = 54
+    end
+    inherited Image39: TImage
+      MultiResBitmap.Height = 54
+      MultiResBitmap.Width = 54
+    end
+    inherited Image40: TImage
+      MultiResBitmap.Height = 54
+      MultiResBitmap.Width = 54
+    end
+    inherited Image41: TImage
+      MultiResBitmap.Height = 54
+      MultiResBitmap.Width = 54
+    end
+    inherited Image42: TImage
+      MultiResBitmap.Height = 54
+      MultiResBitmap.Width = 54
+    end
+    inherited Image43: TImage
+      MultiResBitmap.Height = 54
+      MultiResBitmap.Width = 54
+    end
+    inherited Image44: TImage
+      MultiResBitmap.Height = 54
+      MultiResBitmap.Width = 54
+    end
+    inherited Image45: TImage
+      MultiResBitmap.Height = 54
+      MultiResBitmap.Width = 54
+    end
+    inherited Image46: TImage
+      MultiResBitmap.Height = 54
+      MultiResBitmap.Width = 54
+    end
+    inherited Image47: TImage
+      MultiResBitmap.Height = 54
+      MultiResBitmap.Width = 54
+    end
+    inherited Image48: TImage
+      MultiResBitmap.Height = 54
+      MultiResBitmap.Width = 54
+    end
+    inherited Image49: TImage
+      MultiResBitmap.Height = 54
+      MultiResBitmap.Width = 54
+    end
+    inherited Image50: TImage
+      MultiResBitmap.Height = 54
+      MultiResBitmap.Width = 54
+    end
+    inherited Label11: TLabel
+      TabOrder = 23
+    end
+    inherited Label13: TLabel
+      TabOrder = 45
+    end
+    inherited Label14: TLabel
+      TabOrder = 36
+    end
+    inherited Label17: TLabel
+      TabOrder = 24
+    end
+    inherited Label20: TLabel
+      TabOrder = 25
+    end
+    inherited Label22: TLabel
+      TabOrder = 44
+    end
+    inherited Label23: TLabel
+      TabOrder = 26
+    end
+    inherited Label25: TLabel
+      TabOrder = 58
+    end
+    inherited Label26: TLabel
+      TabOrder = 35
+    end
+    inherited Label28: TLabel
+      TabOrder = 57
+    end
+    inherited Label29: TLabel
+      TabOrder = 34
+    end
+    inherited Label31: TLabel
+      TabOrder = 56
+    end
+    inherited Label32: TLabel
+      TabOrder = 33
+    end
+    inherited Label34: TLabel
+      TabOrder = 55
+    end
+    inherited Label35: TLabel
+      TabOrder = 32
+    end
+    inherited Label37: TLabel
+      TabOrder = 49
+    end
+    inherited Label38: TLabel
+      TabOrder = 28
+    end
+    inherited Label40: TLabel
+      TabOrder = 54
+    end
+    inherited Label41: TLabel
+      TabOrder = 31
+    end
+    inherited Label43: TLabel
+      TabOrder = 52
+    end
+    inherited Label44: TLabel
+      TabOrder = 30
+    end
+    inherited Label46: TLabel
+      TabOrder = 50
+    end
+    inherited Label47: TLabel
+      TabOrder = 29
+    end
+    inherited Label49: TLabel
+      TabOrder = 48
+    end
+  end
+  inherited Memo1: TMemo
+    Viewport.Width = 374.000000000000000000
+    Viewport.Height = 448.000000000000000000
+  end
+end
